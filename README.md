@@ -1,6 +1,6 @@
 Hi, I'm Shahadat 👋
 
-Python Backend Developer | CSE Graduate
+Python Backend Developer | SQL Developer | CSE Graduate
 
 I build backend applications using:
 Python | FastAPI | SQL | MySQL/PostgreSQL
